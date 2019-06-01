@@ -1,0 +1,10 @@
+{
+  "name": "icecube.core",
+  "displayName":  "IceCube.Core",
+  "version": "0.0.1",
+  "description": "IceCube core library.",
+  "keywords": [ "unity3d", "framework" ],
+  "category": "FRAMEWORK",
+  "dependencies": {
+  }
+}
