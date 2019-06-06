@@ -1,0 +1,19 @@
+{
+    "name": "Framework.Hotfix.Editor",
+    "references": [
+        "Core",
+        "Core.Editor",
+        "Framework.Hotfix"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

@@ -39,9 +39,21 @@ namespace IceCube.Core
         {
             if (mStack.Count > 0 && ReferenceEquals(mStack.Peek(), rElement))
             {
-
+                Debug.Log("Internal error. Trying to destroy object this is already released to pool");
             }
+            mActionFree?.Invoke(rElement);
+            mStack.Push(rElement);
         }
 
+        public void Destory()
+        {
+            if (mStack == null)
+                return;
+            foreach (var rItem in mStack)
+            {
+                mActionDestroy?.Invoke(rItem);
+            }
+            mStack.Clear();
+        }
     }
 }

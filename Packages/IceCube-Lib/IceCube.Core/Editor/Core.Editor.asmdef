@@ -1,0 +1,21 @@
+{
+    "name": "Core.Editor",
+    "references": [
+        "Core"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "ILRT.Mono.Cecil.dll",
+        "ILRT.Mono.Cecil.Mdb.dll",
+        "ILRT.Mono.Cecil.Pdb.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "icecube.framework.hotfix",
+  "displayName": "IceCube.Framework.Hotfix",
+  "version": "0.0.1",
+  "description": "IceCube framework hotfix library.",
+  "keywords": [
+    "unity3d",
+    "framework"
+  ],
+  "category": "FRAMEWORK",
+  "dependencies": {
+    "icecube.core": ""
+  }
+}

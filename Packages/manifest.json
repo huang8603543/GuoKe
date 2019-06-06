@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "com.unity.package-manager-ui": "2.1.2",
-    "icecube.core": "file:D:/WorkSpace/Unity/Self/MyFramework/Packages/IceCube-Lib/IceCube.Core",
+    "icecube.core": "file:D:/WorkSpace/Unity/Self/MyFrameworkNew/trunk/Packages/IceCube-Lib/IceCube.Core",
+    "icecube.framework.hotfix": "file:D:/WorkSpace/Unity/Self/MyFrameworkNew/trunk/Packages/IceCube-Lib/IceCube.Framework.Hotfix",
+    "icecube.framework.ui": "file:D:/WorkSpace/Unity/Self/MyFrameworkNew/trunk/Packages/IceCube-Lib/IceCube.Framework.UI",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",

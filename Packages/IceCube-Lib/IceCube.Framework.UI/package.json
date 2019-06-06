@@ -1,0 +1,14 @@
+{
+  "name": "icecube.framework.ui",
+  "displayName": "IceCube.Framework.UI",
+  "version": "0.0.1",
+  "description": "IceCube framework ui library.",
+  "keywords": [
+    "unity3d",
+    "framework"
+  ],
+  "category": "FRAMEWORK",
+  "dependencies": {
+    "icecube.core": "0.0.1"
+  }
+}
